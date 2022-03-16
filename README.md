@@ -3,14 +3,22 @@
 ## Introduction
 An object is said to have done a swing turn if it revolves around around a point at a fixed radius away from the center of the object
 The earth revolving around the sun can be considered to be swing turn.
+
 </br>
-![This is an image](images/giphy.gif)
+<p align="center">
+  <img src="images/giphy.gif" alt="This is an image"/>
+</p>
 </br>
+
 Here we have built a bot controlled by an arduino on-board to make a swing turn.
 We will be using swing turn is used to make smooth turn around corners.
 The following image shows the difference between point turn and swing turn.
 
-![This is an image](images/download.jpg)
+</br>
+<p style="margin-top: 10px" align="center">
+  <img src="images/download.jpg" alt="This is an image"/>
+</p>
+</br>
 
 ## Working
 An android app is used here to send commands over to the arduino using bluetooth interface with the help of a bluetooth module connected to the arduino.We will not going into the details of the android app as it will be discussed in a later project.
