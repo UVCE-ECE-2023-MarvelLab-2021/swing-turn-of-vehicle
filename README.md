@@ -68,3 +68,9 @@ void loop() {
 
 </p>
 </details>
+
+## Resources
+<ul>
+<li>PWM:https://create.arduino.cc/projecthub/muhammad-aqib/arduino-pwm-tutorial-ae9d71</li>
+<li>L298N:https://lastminuteengineers.com/l298n-dc-stepper-driver-arduino-tutorial/</li>
+</ul>
